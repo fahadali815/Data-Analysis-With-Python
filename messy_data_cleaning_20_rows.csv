@@ -1,0 +1,21 @@
+Customer_ID,Name,Email,Age,City,Gender,Join_Date,Salary
+101, Ali Khan ,ali@example.com,22,Islamabad,Male,2025-01-05,45000.0
+102,Sara Ahmed,SARA@EXAMPLE.COM,twenty-three,islamabad,Female,05/01/2025,52000.0
+103,Usman Raza,usman@example.com,,Lahore,Male,2025-01-07,48000.0
+104,Ayesha Malik,ayesha@example.com,24,Karachi,female,2025/01/08,60000.0
+105,Bilal Shah,bilal@example.com,25,lahore,M,2025-01-09,55000.0
+106,Hina Noor,hina@example.com,23,Islamabad,Female,"Jan 10, 2025",51000.0
+107,Hamza Ali,hamza@example.com,26,Peshawar,Male,2025-01-11,47000.0
+108,Fatima Khan,fatima@example.com,22,Karachi,F,2025-01-12,
+109,Zain Ahmed,zain@example.com,27,Lahore,Male,2025-01-13,65000.0
+110,Maryam Iqbal,maryam@example.com,24,islamabad,Female,2025-01-14,58000.0
+111,Ali Khan,ali@example.com,22,Islamabad,Male,2025-01-05,45000.0
+112,Omer Farooq,omer@example.com,28,Rawalpindi,Male,2025-01-15,62000.0
+113,Sana Javed,sana@example.com,23,rawalpindi,female,2025-01-16,50000.0
+114,Danish Iqbal,danish@example.com,29,Peshawar ,Male,16-01-2025,70000.0
+115,Noor Fatima,noor@example.com,twenty-one,Karachi,F,2025-01-18,49000.0
+116,Hamza Ali,hamza@example.com,26,Peshawar,Male,2025-01-19,47000.0
+117,Iqra Shah,iqra@example.com,22,Lahore,Female,2025-01-20,53000.0
+118,Saad Khan,saad@example.com,30,Islamabad,M,2025-01-21,75000.0
+119,Areeba Noor,areeba@example.com,24,Karachi,Female,2025-01-22,57000.0
+120,  Usman Raza,usman@example.com,,Lahore,Male,2025-01-07,48000.0
